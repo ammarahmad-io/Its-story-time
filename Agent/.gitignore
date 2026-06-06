@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Environment variables
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Images generated
+*.png
+*.jpg
+*.jpeg
+*.gif
+image_cache/
+
+# API keys / secrets
+config.py
+secrets.py
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
